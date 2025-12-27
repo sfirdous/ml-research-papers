@@ -1,0 +1,9 @@
+numpy
+nibabel
+torch
+torchvision
+matplotlib
+tifffile
+scikit-learn
+gradio 
+opencv-python
